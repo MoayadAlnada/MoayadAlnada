@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moayad Alnada
+- 👋 Hi, It's Moayad
 - 👀 I’m interested in coding, designs, music, movies
 - 🌱 I’m currently learning c#, HTML, CSS, Adobe Photoshop, Adobe Illustrator, Adobe After Effect and Adobe Premiere
 - 💞️ I’m looking to collaborate on coders or designers
