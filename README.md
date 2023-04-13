@@ -1,6 +1,6 @@
 - 👋 Hi, It's Moayad
 - 👀 I’m interested in coding, designs, music, movies
-- 🌱 I’m currently learning c#, HTML, CSS, Adobe Photoshop, Adobe Illustrator, Adobe After Effect and Adobe Premiere
+- 🌱 I’m currently learning c#, HTML, CSS, C, Python, Adobe Photoshop, Adobe Illustrator, Adobe After Effect and Adobe Premiere
 - 💞️ I’m looking to collaborate on coders or designers
 - 📫 How to reach me .. You can reach me via email (moauad.alnada3@gamil.com), Whatsapp (+905313976681) or Instagram (@moayadalnada)
 
